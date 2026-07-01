@@ -4,7 +4,7 @@
 
 This project analyzes one year of retail sales data to uncover business trends, customer purchasing behavior, and product performance using Python.
 
-## 🛠 Tools & Libraries
+##  Tools & Libraries
 
 - Python
 - Pandas
