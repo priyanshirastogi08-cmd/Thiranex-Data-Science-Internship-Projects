@@ -1,2 +1,2 @@
 # Thiranex-Data-Science-Internship-Projects
-Thiranex Data Science Internship Projects using the Titanic Dataset (Project 1,2 and 3) and Sales Dataset (Project 4).
+A collection of four Data Science internship projects using the Titanic dataset (Projects 1–3) and a Retail Sales dataset (Project 4), covering data cleaning, exploratory data analysis, machine learning, and business analytics.
